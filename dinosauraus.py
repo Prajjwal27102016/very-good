@@ -1,0 +1,1 @@
+file = open('mem.txt', 'w')
